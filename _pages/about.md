@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a Second-year doctoral student from [School of Computer Science and Engineering](https://cs.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/). 
 
-I am very fortunate to be advised by [Prof. Kun Zhang](http://kunzhangcn.net/) from [School of CSE](https://www.njust.edu.cn/), NJUST. I also worked closely with [Prof. Hao Peng](https://mypage.zjnu.edu.cn/hpeng/zh_CN/) and [Prof. Wei Wang](https://gwgl.cqmu.edu.cn/info/1214/5264.htm) during my M.S. time.
+I am very fortunate to be advised by [Prof. Kun Zhang](http://kunzhangcn.net/) from [School of CSE](https://www.njust.edu.cn/), NJUST. I also worked closely with [Prof. Hao Peng](https://mypage.zjnu.edu.cn/hpeng/zh_CN/) and [Prof. Wei Wang](http://scholar.google.com/citations?user=T-wGIzcAAAAJ&hl=en) during my M.S. time.
 
 My research interest includes Network science, network security.
 
